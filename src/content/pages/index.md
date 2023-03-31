@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Christina Wentzel
 tagline: Visual Artist
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/sunrise_2011_header.jpg
 cta:
   ctaText: Learn More
   ctaLink: /about
