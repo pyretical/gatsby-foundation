@@ -15,8 +15,16 @@ const MenuItems = [
     title: "About",
   },
   {
+    path: "/portfolio",
+    title: "Portfolio",
+  },
+  {
+    path: "https://fineartamerica.com/profiles/christina-wentzel",
+    title: "Prints",
+  },
+  {
     path: "/blog",
-    title: "Blog",
+    title: "News",
   },
   {
     path: "/contact",
